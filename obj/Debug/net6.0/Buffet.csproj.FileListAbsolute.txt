@@ -1,0 +1,15 @@
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\bin\Debug\net6.0\Buffet.exe
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\bin\Debug\net6.0\Buffet.deps.json
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\bin\Debug\net6.0\Buffet.runtimeconfig.json
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\bin\Debug\net6.0\Buffet.dll
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\bin\Debug\net6.0\Buffet.pdb
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.csproj.AssemblyReference.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.AssemblyInfoInputs.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.AssemblyInfo.cs
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.dll
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\refint\Buffet.dll
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.pdb
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\Buffet.genruntimeconfig.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Buffet\Buffet\obj\Debug\net6.0\ref\Buffet.dll
